@@ -24,3 +24,6 @@ DireccionLabel=Label(miFrame,text="Direccion de casa")
 DireccionLabel.grid(row=3,column=3)
 
 raiz.mainloop()
+
+
+print("hola")
